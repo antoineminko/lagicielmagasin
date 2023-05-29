@@ -1,0 +1,2 @@
+# lagicielmagasin
+fais en python
